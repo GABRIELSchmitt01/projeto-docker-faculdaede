@@ -1,0 +1,21 @@
+header{
+    background-color: #4B6D90 !important;
+    padding: 3% !important;
+    color: white !important;
+    text-align: center !important;
+}
+
+footer{
+    background-color: #4B6D90 !important;
+    padding: 2% !important;
+    color: white !important;
+    text-align: center !important;
+}
+
+.img-react{
+    width: 80% !important;
+}
+
+.div-item{
+    text-align: center;
+}
